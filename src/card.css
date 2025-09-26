@@ -1,0 +1,26 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+   direction: rtl; /* تغيير الاتجاه من اليمين للشمال */
+}
+.card{
+    border: 1px solid black;
+    width: 320px;
+    height: 350px;
+    margin: 20px;
+    padding: 10px;
+
+}
+.card img{
+    width:300px;
+    height: 200px;
+}
+
+.card .star{
+    width: 20px;
+    height: 20px;
+    
+    color: yellow;
+}

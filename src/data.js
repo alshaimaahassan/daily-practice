@@ -1,6 +1,6 @@
 export const data =[
   {
-    "image": "https://images.pexels.com/photos/37347/pexels-photo-37347.jpeg",
+   "image": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg",
     "price": 4500,
     "title": "شقة جميلة بالقرب من النيل",
     "description": "شقة غرفتين نوم، مطلة على النهر، فاخرة ومفروشة جزئياً."

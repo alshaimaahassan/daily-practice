@@ -11,10 +11,10 @@ function App() {
     />
   ));
   return (
-    <h1>
+    <div className="intro">
       {show}
    
-    </h1>
+    </div>
   );
 }
 
